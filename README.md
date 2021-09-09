@@ -10,13 +10,13 @@
 [![DevSuperior no Youtube](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/yt-icon.png)](https://youtube.com/devsuperior)
 
 ## Objetivos do projeto para este curso
-(PASSO 1)
+## (PASSO 1) - Front End
 - Criar projetos backend e frontend
 - Salvar os projeto no Github em monorepo
 - Montar o visual estático do front end
 - Publicar o front end no Netlify
 
-(PASSO 2)
+## (PASSO 2) - Back end
 - Implementar o back end
 - Modelo de domínio
 - Estruturar o back end no padrão camadas
@@ -24,7 +24,7 @@
 - Consultas agrupadas para gráficos
 - Implantação na nuvem
 
-(PASSO 3)
+## (PASSO 3) - Integração Back e Front end
 - Integrar back end e front end
 - Três pilares do React
   - Componentes
@@ -40,7 +40,7 @@
 #### Modelo conceitual
 ![Image](https://github.com/devsuperior/bds-assets/raw/main/sds/sds3-mc.png "Modelo conceitual")
 
-Estruturação do projeto em camadas
+## Estruturação do projeto em camadas
 
 ### Padrão camadas adotado
 
