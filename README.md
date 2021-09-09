@@ -15,6 +15,18 @@
 - Salvar os projeto no Github em monorepo
 - Montar o visual estático do front end
 - Publicar o front end no Netlify
+- Web
+- JPA
+- H2
+- Postgres
+- Security
+- HTML 
+- CSS
+- JavaScript
+- TypeScript
+- ReactJS
+- Bootstrap
+- React Router
 
 ## (PASSO 2) - Back end
 - Implementar o back end
@@ -23,6 +35,13 @@
 - Consulta paginada de vendas
 - Consultas agrupadas para gráficos
 - Implantação na nuvem
+- Java
+- Spring Boot
+- Maven 
+- H2 
+- Postgresql 
+- Postman
+- Spring
 
 ## (PASSO 3) - Integração Back e Front end
 - Integrar back end e front end
