@@ -9,6 +9,36 @@ INSERT INTO tb_sellers(name) VALUES ('Padme');
 
 
 
+postgres://
+
+eizoxuxcssrqoj
+:
+1e6d41ef26526b0e9feca57532a211d22c543527c52d23bf5b82850fad545c11
+
+@
+
+ec2-54-166-242-77.compute-1.amazonaws.com
+
+:
+
+5432
+/
+d5c2asv89krsnu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 {{host}}/sales/amount-by-seller
 
